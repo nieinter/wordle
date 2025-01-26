@@ -18,6 +18,8 @@ Game wordle as a Windows desktop application. To run application three modules m
 
 ![WordleJump](https://github.com/nieinter/images/blob/main/ezgif.com-animated-gif-maker%20(10).gif)
 
+### - random words from api
+
 # Used Python modules:
 
 - [requests](https://pypi.org/project/requests/)
